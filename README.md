@@ -27,4 +27,6 @@ Here are some important informations about me:
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#F7DF1E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react/#F7DF1E" />
 </div>
