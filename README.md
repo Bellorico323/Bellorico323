@@ -6,7 +6,7 @@ I'm a front-end developer who started my journey in August 2023, and I'm always 
 Here are some important informations about me:
 
 - 🔭 I’m currently working on MES projects
-- 🌱 I’m currently learning React and Typescript
+- 🌱 I’m currently learning Nextjs and Nodejs
 - 📫 The easier way to reach me is on my LinkedIn
 
 <div>
