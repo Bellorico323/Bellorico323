@@ -23,11 +23,4 @@ Here are some important informations about me:
 </div>
 <h3>Tecnologies that I use:</h3>
 
-<div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#F7DF1E" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/react/#F7DF1E" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwindcss,nestjs,nextjs,terraform)](https://skillicons.dev)
