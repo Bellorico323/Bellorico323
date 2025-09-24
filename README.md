@@ -23,4 +23,4 @@ Here are some important informations about me:
 </div>
 <h3>Tecnologies that I use:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwindcss,nestjs,nextjs,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwindcss,elysia,nestjs,nextjs,terraform)](https://skillicons.dev)
